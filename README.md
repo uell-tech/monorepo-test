@@ -9,6 +9,7 @@
 ✅ &nbsp;Angular Material<br>
 ✅ &nbsp;OnPush Change Detection<br>
 ✅ &nbsp;Smart components y Presentational components<br>
+
 <hr />
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
@@ -35,7 +36,7 @@ Run `yarn nx graph` to see a diagram of the dependencies of the projects.
 
 ## Running end-to-end tests
 
-Run `yarn nx e2e emat-portal-e2e` to execute the end-to-end tests via [Cypress](https://www.cypress.io).
+Run `yarn nx run emat-portal-e2e:e2e ` to execute the end-to-end tests via [Cypress](https://www.cypress.io).
 
 Run `yarn nx affected:e2e` to execute the end-to-end tests affected by a change.
 

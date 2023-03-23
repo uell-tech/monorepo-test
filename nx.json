@@ -40,14 +40,22 @@
       "style": "scss",
       "linter": "eslint",
       "unitTestRunner": "jest",
-      "e2eTestRunner": "cypress"
+      "e2eTestRunner": "cypress",
+      "standalone": true,
+      "inlineStyle": true,
+      "inlineTemplate": true
     },
     "@nrwl/angular:library": {
       "linter": "eslint",
       "unitTestRunner": "jest"
     },
     "@nrwl/angular:component": {
-      "style": "scss"
+      "style": "scss",
+      "standalone": true,
+      "inlineStyle": true,
+      "changeDetection": "OnPush",
+      "displayBlock": true,
+      "inlineTemplate": true
     }
   }
 }
