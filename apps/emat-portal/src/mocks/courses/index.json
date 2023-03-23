@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "1º Trimestre",
+    "amountLessonsCompleted": 60,
+    "amountLessons": 60,
+    "isFinished": true,
+    "lessonsIds": []
+  },
+  {
+    "id": 2,
+    "title": "2º Trimestre",
+    "amountLessonsCompleted": 40,
+    "amountLessons": 50,
+    "isFinished": false,
+    "lessonsIds": []
+  },
+  {
+    "id": 3,
+    "title": "3º Trimestre",
+    "amountLessonsCompleted": 0,
+    "amountLessons": 40,
+    "isFinished": false,
+    "lessonsIds": []
+  }
+]

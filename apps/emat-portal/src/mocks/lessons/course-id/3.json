@@ -1,0 +1,117 @@
+[
+  {
+    "id": 61,
+    "phase": "Fase 0",
+    "title": "Introducción a la programación"
+  },
+  {
+    "id": 62,
+    "phase": "Fase 2",
+    "title": "Desarrollo web con JavaScript"
+  },
+  {
+    "id": 63,
+    "phase": "Fase 1",
+    "title": "Algoritmos y estructuras de datos"
+  },
+  {
+    "id": 64,
+    "phase": "Fase 3",
+    "title": "Programación orientada a objetos"
+  },
+  {
+    "id": 65,
+    "phase": "Fase 4",
+    "title": "Diseño de bases de datos"
+  },
+  {
+    "id": 66,
+    "phase": "Fase 2",
+    "title": "Seguridad informática"
+  },
+  {
+    "id": 67,
+    "phase": "Fase 1",
+    "title": "Inteligencia artificial y aprendizaje automático"
+  },
+  {
+    "id": 68,
+    "phase": "Fase 0",
+    "title": "Redes de computadoras"
+  },
+  {
+    "id": 69,
+    "phase": "Fase 3",
+    "title": "Desarrollo móvil"
+  },
+  {
+    "id": 70,
+    "phase": "Fase 4",
+    "title": "Realidad virtual y aumentada"
+  },
+  {
+    "id": 71,
+    "phase": "Fase 2",
+    "title": "Diseño gráfico digital"
+  },
+  {
+    "id": 72,
+    "phase": "Fase 1",
+    "title": "Fotografía creativa"
+  },
+  {
+    "id": 73,
+    "phase": "Fase 0",
+    "title": "Cine y producción audiovisual"
+  },
+  {
+    "id": 74,
+    "phase": "Fase 3",
+    "title": "Marketing digital"
+  },
+  {
+    "id": 75,
+    "phase": "Fase 4",
+    "title": "Publicidad y branding"
+  },
+  {
+    "id": 76,
+    "phase": "Fase 2",
+    "title": "Gestión de proyectos"
+  },
+  {
+    "id": 77,
+    "phase": "Fase 1",
+    "title": "Liderazgo y trabajo en equipo"
+  },
+  {
+    "id": 78,
+    "phase": "Fase 0",
+    "title": "Comunicación efectiva"
+  },
+  {
+    "id": 79,
+    "phase": "Fase 3",
+    "title": "Negociación y resolución de conflictos"
+  },
+  {
+    "id": 80,
+    "phase": "Fase 4",
+    "title": "Gestión del tiempo y productividad"
+  },
+  {
+    "id": 81,
+    "phase": "Fase 2",
+    "title": "Finanzas personales"
+  },
+  {
+    "id": 82,
+    "phase": "Fase 1",
+    "title": "Economía y negocios internacionales"
+  },
+  {
+    "id": 83,
+    "phase": "Fase 0",
+    "title": "Emprendimiento y creación de empresas"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "phase": "Fase 0",
+    "title": "Introducción al idioma mandarín"
+  },
+  {
+    "id": 2,
+    "phase": "Fase 1",
+    "title": "Pinyin: la pronunciación del mandarín"
+  },
+  {
+    "id": 3,
+    "phase": "Fase 2",
+    "title": "Los tonos del mandarín"
+  },
+  {
+    "id": 4,
+    "phase": "Fase 3",
+    "title": "Vocabulario básico"
+  },
+  {
+    "id": 5,
+    "phase": "Fase 4",
+    "title": "Los caracteres chinos"
+  },
+  {
+    "id": 6,
+    "phase": "Fase 0",
+    "title": "Gramática básica"
+  },
+  {
+    "id": 7,
+    "phase": "Fase 1",
+    "title": "Los números y el dinero en chino"
+  },
+  {
+    "id": 8,
+    "phase": "Fase 2",
+    "title": "Preguntas y respuestas básicas"
+  },
+  {
+    "id": 9,
+    "phase": "Fase 3",
+    "title": "Verbos y verbos compuestos"
+  },
+  {
+    "id": 10,
+    "phase": "Fase 4",
+    "title": "Los colores y las formas"
+  },
+  {
+    "id": 11,
+    "phase": "Fase 0",
+    "title": "Familia y relaciones sociales"
+  },
+  {
+    "id": 12,
+    "phase": "Fase 1",
+    "title": "Comida y bebida en China"
+  },
+  {
+    "id": 13,
+    "phase": "Fase 2",
+    "title": "El calendario y las festividades chinas"
+  },
+  {
+    "id": 14,
+    "phase": "Fase 3",
+    "title": "La ropa y la moda en China"
+  },
+  {
+    "id": 15,
+    "phase": "Fase 4",
+    "title": "El tiempo y el clima en China"
+  },
+  {
+    "id": 16,
+    "phase": "Fase 0",
+    "title": "Los transportes y los viajes en China"
+  },
+  {
+    "id": 17,
+    "phase": "Fase 1",
+    "title": "La música y el cine chinos"
+  },
+  {
+    "id": 18,
+    "phase": "Fase 2",
+    "title": "La vida cotidiana en China"
+  }
+]

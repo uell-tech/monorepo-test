@@ -1,0 +1,16 @@
+@use '@angular/material' as mat;
+@use './theming' as theme;
+
+@include theme.custom-palette-vars();
+
+@include mat.core();
+@include mat.core-theme(theme.$emat-theme);
+@include mat.button-theme(theme.$emat-theme);
+@include mat.select-theme(theme.$emat-theme);
+@include mat.tooltip-theme(theme.$emat-theme);
+@include mat.card-theme(theme.$emat-theme);
+@include mat.form-field-theme(theme.$emat-theme);
+@include mat.sidenav-theme(theme.$emat-theme);
+@include mat.typography-hierarchy(theme.$app-typography);
+
+@include theme.custom-theme();

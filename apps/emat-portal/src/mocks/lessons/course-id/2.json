@@ -1,0 +1,77 @@
+[
+  {
+    "id": 31,
+    "phase": "Fase 0",
+    "title": "Números naturales y enteros"
+  },
+  {
+    "id": 32,
+    "phase": "Fase 1",
+    "title": "Fracciones y decimales"
+  },
+  {
+    "id": 33,
+    "phase": "Fase 2",
+    "title": "Álgebra básica"
+  },
+  {
+    "id": 34,
+    "phase": "Fase 3",
+    "title": "Geometría básica"
+  },
+  {
+    "id": 35,
+    "phase": "Fase 4",
+    "title": "Probabilidad y estadística"
+  },
+  {
+    "id": 36,
+    "phase": "Fase 0",
+    "title": "Números complejos"
+  },
+  {
+    "id": 37,
+    "phase": "Fase 1",
+    "title": "Funciones"
+  },
+  {
+    "id": 38,
+    "phase": "Fase 2",
+    "title": "Sistemas de ecuaciones"
+  },
+  {
+    "id": 39,
+    "phase": "Fase 3",
+    "title": "Trigonometría"
+  },
+  {
+    "id": 40,
+    "phase": "Fase 4",
+    "title": "Cálculo diferencial e integral"
+  },
+  {
+    "id": 41,
+    "phase": "Fase 0",
+    "title": "Álgebra lineal"
+  },
+  {
+    "id": 42,
+    "phase": "Fase 1",
+    "title": "Geometría analítica"
+  },
+  {
+    "id": 43,
+    "phase": "Fase 2",
+    "title": "Matemáticas financieras"
+  },
+  {
+    "id": 44,
+    "phase": "Fase 3",
+    "title": "Ecuaciones diferenciales"
+  },
+  {
+    "id": 45,
+    "phase": "Fase 4",
+    "title": "Matemática discreta"
+  }
+]
