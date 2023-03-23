@@ -4104,7 +4104,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nrwl/angular@npm:^15.8.7":
+"@nrwl/angular@npm:15.8.7":
   version: 15.8.7
   resolution: "@nrwl/angular@npm:15.8.7"
   dependencies:
@@ -4152,7 +4152,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nrwl/cypress@npm:15.8.7, @nrwl/cypress@npm:^15.8.7":
+"@nrwl/cypress@npm:15.8.7":
   version: 15.8.7
   resolution: "@nrwl/cypress@npm:15.8.7"
   dependencies:
@@ -7906,7 +7906,6 @@ __metadata:
     "@angular-devkit/architect": 0.1502.4
     "@angular-devkit/build-angular": 15.2.4
     "@angular-devkit/core": 15.2.4
-    "@angular-devkit/schematics": 15.2.4
     "@angular-eslint/eslint-plugin": 15.2.1
     "@angular-eslint/eslint-plugin-template": 15.2.1
     "@angular-eslint/template-parser": 15.2.1
@@ -7934,14 +7933,13 @@ __metadata:
     "@nguniversal/builders": 15.2.0
     "@nguniversal/common": 15.2.0
     "@nguniversal/express-engine": 15.2.0
-    "@nrwl/angular": ^15.8.7
-    "@nrwl/cypress": ^15.8.7
+    "@nrwl/angular": 15.8.7
+    "@nrwl/cypress": 15.8.7
     "@nrwl/eslint-plugin-nx": 15.8.7
     "@nrwl/jest": 15.8.7
     "@nrwl/js": 15.8.7
     "@nrwl/linter": 15.8.7
     "@nrwl/workspace": 15.8.7
-    "@schematics/angular": 15.2.4
     "@serverless/typescript": ^3.27.0
     "@types/express": 4.17.17
     "@types/jest": 29.5.0

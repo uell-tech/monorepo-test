@@ -36,7 +36,7 @@ Run `yarn nx graph` to see a diagram of the dependencies of the projects.
 
 ## Running end-to-end tests
 
-Run `yarn nx run emat-portal-e2e:e2e ` to execute the end-to-end tests via [Cypress](https://www.cypress.io).
+Run `yarn nx run emat-portal-e2e:e2e` to execute the end-to-end tests via [Cypress](https://www.cypress.io).
 
 Run `yarn nx affected:e2e` to execute the end-to-end tests affected by a change.
 
@@ -48,7 +48,7 @@ Run `yarn nx affected:test` to execute the unit tests affected by a change.
 
 ## Generate an application
 
-Run `nx g @nrwl/angular:app my-app` to generate an application.
+Run `yarn nx g @nrwl/angular:app my-app` to generate an application.
 
 > When using Nx, you can create multiple applications and libraries in the same workspace.
 

@@ -12,6 +12,15 @@ import { ConfigPageComponent } from './config-page.component';
 import { closeSidenav, openSidenav } from '../store';
 import { PushModule } from '@ngrx/component';
 
+export const imports = [
+  MaterialCommonModule,
+  PushModule,
+  NgIf,
+  RouterOutlet,
+  NavItemComponent,
+  ToolbarComponent,
+  ConfigPageComponent,
+];
 @Component({
   standalone: true,
   selector: 'emat-root',
@@ -41,15 +50,7 @@ import { PushModule } from '@ngrx/component';
       <router-outlet></router-outlet>
     </mat-sidenav-container>
   `,
-  imports: [
-    MaterialCommonModule,
-    PushModule,
-    NgIf,
-    RouterOutlet,
-    NavItemComponent,
-    ToolbarComponent,
-    ConfigPageComponent,
-  ],
+  imports,
 })
 export class AppComponent {
   private readonly store = inject(Store);
