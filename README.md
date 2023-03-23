@@ -35,7 +35,7 @@ Run `yarn nx graph` to see a diagram of the dependencies of the projects.
 
 ## Running end-to-end tests
 
-Run `yarn nx e2e emat-portal` to execute the end-to-end tests via [Cypress](https://www.cypress.io).
+Run `yarn nx e2e emat-portal-e2e` to execute the end-to-end tests via [Cypress](https://www.cypress.io).
 
 Run `yarn nx affected:e2e` to execute the end-to-end tests affected by a change.
 
