@@ -1,6 +1,5 @@
 <br />
 <h1 align="center">Emat Monorepo</h1>
-# Emat Monorepo
 
 ✅ &nbsp;NX monorepo<br>
 ✅ &nbsp;NgRx store (Redux pattern)<br>
@@ -10,16 +9,18 @@
 ✅ &nbsp;OnPush Change Detection<br>
 ✅ &nbsp;Smart components y Presentational components<br>
 
-<hr />
-
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![](https://img.shields.io/badge/monorepo-Nx-blue)](https://nx.dev/)
 ![npm peer dependency version (scoped)](https://img.shields.io/npm/dependency-version/eslint-config-prettier/peer/eslint)
 ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+[![](https://img.shields.io/azure-devops/tests/azuredevops-powershell/azuredevops-powershell/1/master?compact_message)](https://learn.microsoft.com/en-us/azure/devops/pipelines/test/review-code-coverage-results?view=azure-devops)
+![](https://img.shields.io/hexpm/l/plug)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/azure-devops/coverage/swellaby/opensource/1)
 
 ## Getting Started
 
-- Run git clone https://github.com/uell-tech/monorepo-test.git emat-monorepo
+- Run `git clone https://github.com/uell-tech/monorepo-test.git emat-monorepo && cd "$_"`
 - Run `yarn install`
 
 ## Development server
