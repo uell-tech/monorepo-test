@@ -15,7 +15,6 @@
 ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 [![](https://img.shields.io/azure-devops/tests/azuredevops-powershell/azuredevops-powershell/1/master?compact_message)](https://learn.microsoft.com/en-us/azure/devops/pipelines/test/review-code-coverage-results?view=azure-devops)
 ![](https://img.shields.io/hexpm/l/plug)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/azure-devops/coverage/swellaby/opensource/1)
 
 ## Getting Started
